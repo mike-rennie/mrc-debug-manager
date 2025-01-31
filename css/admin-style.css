@@ -1,0 +1,9 @@
+.mrc-debug-container {
+    background: #f7f7f7;
+    padding: 15px;
+    border-radius: 5px;
+}
+.mrc-debug-title {
+    font-size: 18px;
+    font-weight: bold;
+}
